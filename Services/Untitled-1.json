@@ -7,18 +7,18 @@
         "success": "http:///success"
     },
     "binary_mode": false,
-    "client_id": "7014758010410180",
-    "collector_id": 300505167,
+    "client_id": "3493722066198928",
+    "collector_id": 1167218833,
     "coupon_code": null,
     "coupon_labels": null,
-    "date_created": "2022-07-25T21:29:21.746-04:00",
+    "date_created": "2022-07-25T21:56:45.880-04:00",
     "date_of_expiration": null,
     "expiration_date_from": null,
     "expiration_date_to": null,
     "expires": false,
     "external_reference": "",
-    "id": "300505167-da14c19c-88f8-4bd6-9952-fd16f371e006",
-    "init_point": "https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=300505167-da14c19c-88f8-4bd6-9952-fd16f371e006",
+    "id": "1167218833-44d01954-b5eb-4525-b29d-a155b3803897",
+    "init_point": "https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=1167218833-44d01954-b5eb-4525-b29d-a155b3803897",
     "internal_metadata": null,
     "items": [
         {
@@ -80,7 +80,7 @@
         "pending": "",
         "success": ""
     },
-    "sandbox_init_point": "https://sandbox.mercadopago.com.ar/checkout/v1/redirect?pref_id=300505167-da14c19c-88f8-4bd6-9952-fd16f371e006",
+    "sandbox_init_point": "https://sandbox.mercadopago.com.ar/checkout/v1/redirect?pref_id=1167218833-44d01954-b5eb-4525-b29d-a155b3803897",
     "site_id": "MLA",
     "shipments": {
         "default_shipping_method": null,
